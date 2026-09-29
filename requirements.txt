@@ -1,0 +1,8 @@
+torch>=2.0.0
+torchvision
+transformers
+datasets
+gymnasium
+stable-baselines3
+fvcore
+pandas
