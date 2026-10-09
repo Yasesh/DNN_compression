@@ -1,0 +1,4 @@
+Model,Variant,Rank Ratio,Parameters,Size (MB),Param Reduction (%),Avg Latency (ms),Latency Change (%),Shape Match
+bert-base-uncased,Original Baseline,1.0,109482240,417.64,0.0,16.14,0.0,True
+bert-base-uncased,SVD Factorized,0.5,88248576,336.64,19.39,11.37,-29.56,True
+bert-base-uncased,0.9,109482240,97206528,11.21
